@@ -1,2 +1,2 @@
 # Django.gb.online_store
-online store homework projects for gb.ru
+online store homework project for gb.ru
